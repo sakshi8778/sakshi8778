@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://your-coding-girl-image-url.gif" width="320" alt="coding girl"/>
-</p>
-
+  <img src="https://raw.githubusercontent.com/tashreefmuhammad/tashreefmuhammad/main/asset/hacker.gif" width="320" />
+  
 <p align="center">
   <a href="https://github.com/sakshi8778">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -34,12 +33,11 @@
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
-
 ### 📚 Currently Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </p>
 
 ### 🛠️ Tools & Tech I Use
@@ -96,13 +94,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sakshi8778&theme=darkhub&no-frame=true&row=1&column=7" />
-</p>
-
----
 
 ### 📈 Contribution Graph
 
@@ -132,15 +123,14 @@
 </p>
 
 ---
+### 💼 Experience & Journey
 
-### 💼 Experience
+- 🎓 Currently a **2nd Year B.Tech (AI & Data Science)** student at VESIT — still learning, still figuring things out, one project at a time.
+- 🧠 Backend Developer on a **Student-Facing Digital Mental Health & Psychological Support System (SIH PS 25092)** — working with a team on Node.js/Express APIs and Supabase integration.
+- 🏆 Participated in **hackathons**, building projects like *Civic Bridge* and *Emergency Access* under time pressure with a team — learned more in those 24-36 hours than in some entire semesters.
+- 💻 Built a few beginner-to-intermediate projects (*Flappy Bird*, and others) just to understand core logic and get comfortable with code.
+- 🌱 Not claiming to be an expert — just a student trying to decode this whole "tech" thing one bug, one hackathon, and one late night at a time.
 
-- **Backend Developer**, Student-Facing Digital Mental Health & Psychological Support System (SIH PS 25092)
-  - Built REST APIs using **Node.js / Express**
-  - Integrated **Supabase** for database management and authentication
-  - Collaborated in a multi-person team across authentication, AI chatbot integration, appointment booking, and admin analytics modules
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer" />
