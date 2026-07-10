@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=600&lines=B.Tech+AI+%26+Data+Science+%40+VESIT;Backend+Developer;AI+%2F+ML+Enthusiast;Building+Cool+Things+with+Code+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tashreefmuhammad/tashreefmuhammad/main/asset/hacker.gif" width="320" />
   
 <p align="center">
   <a href="https://github.com/sakshi8778">
